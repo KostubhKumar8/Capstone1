@@ -1,1 +1,1 @@
-# Capstone1 - Email Spam Classification
+# Capstone1 - Spam Classification
